@@ -1,0 +1,35 @@
+[
+ {"name":"EatHealthy",
+   "city":"Hyderabad",
+   "type":"veg",
+   "cuisine":["Indian","Italian"]
+ },
+
+ {
+     "name":"HotelTaj",
+     "city":"Mumbai",
+     "type":"veg",
+     "cuisine":["Indian","Italian"]
+ },
+ 
+ {
+     "name":"SpicyHub",
+     "city":"Chennai",
+     "type":"Non-Veg",
+     "cuisine":["Indian","Italian"]
+ },
+ {
+     "name":"EatandEnjoy",
+     "city":"Banglore",
+     "type":"Non-Veg",
+     "cuisine":["Indian"]
+ },
+
+ {
+    "name":"NiceTreat",
+    "city":"Mysore",
+    "type":"veg",
+    "cuisine":["Indian","Italian"]
+ }
+
+]
